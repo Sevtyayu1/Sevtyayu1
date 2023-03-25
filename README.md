@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-🌱 I’m currently learning about Machine Learning and Data.
+🌱 I’m currently learning about Machine Learning and Data. I'm so excited to learn SQL collaborate in visualization.
 
 <!--
 **Sevtyayu1/Sevtyayu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
