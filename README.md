@@ -1,6 +1,9 @@
-### Hello there 👋
+## Hello there 👋
+### Sevty Ayu Saputry, you can call me Sevty.
 
 🌱 I’m currently learning about Machine Learning and Data. I'm so excited to learn SQL collaborate in visualization.
+
+I am very interested in learning about machine learning, data science, data analysts, apps, technology and all things related to technology that have an impact on the environment.
 
 <!--
 **Sevtyayu1/Sevtyayu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
